@@ -18,7 +18,7 @@ def starter():
     Date Created: January 2, 2024""")
 def obs():
     starter()
-    f = input("Enter the filename you want to encrypt: ")
+    f = input("Enter the filename you want to encrypt(e.g main.py): ")
     print("Please  wait...")
     sleep(1)
     print("Encrypting your python code....")
